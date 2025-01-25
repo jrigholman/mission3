@@ -1,0 +1,15 @@
+C:\Users\jonat\source\repos\whatever\obj\Debug\net8.0\whatever.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\source\repos\whatever\obj\Debug\net8.0\whatever.AssemblyInfoInputs.cache
+C:\Users\jonat\source\repos\whatever\obj\Debug\net8.0\whatever.AssemblyInfo.cs
+C:\Users\jonat\source\repos\whatever\obj\Debug\net8.0\whatever.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\whatever\obj\Debug\net8.0\whatever.sourcelink.json
+C:\Users\jonat\source\repos\whatever\bin\Debug\net8.0\whatever.exe
+C:\Users\jonat\source\repos\whatever\bin\Debug\net8.0\whatever.deps.json
+C:\Users\jonat\source\repos\whatever\bin\Debug\net8.0\whatever.runtimeconfig.json
+C:\Users\jonat\source\repos\whatever\bin\Debug\net8.0\whatever.dll
+C:\Users\jonat\source\repos\whatever\bin\Debug\net8.0\whatever.pdb
+C:\Users\jonat\source\repos\whatever\obj\Debug\net8.0\whatever.dll
+C:\Users\jonat\source\repos\whatever\obj\Debug\net8.0\refint\whatever.dll
+C:\Users\jonat\source\repos\whatever\obj\Debug\net8.0\whatever.pdb
+C:\Users\jonat\source\repos\whatever\obj\Debug\net8.0\whatever.genruntimeconfig.cache
+C:\Users\jonat\source\repos\whatever\obj\Debug\net8.0\ref\whatever.dll
